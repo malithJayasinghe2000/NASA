@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NASA/static/css/main.efde1b1b.css",
+    "main.js": "/NASA/static/js/main.61b46d1b.js",
+    "static/js/453.8ab44547.chunk.js": "/NASA/static/js/453.8ab44547.chunk.js",
+    "static/media/planet_video.mp4": "/NASA/static/media/planet_video.447692cf6e45b9f853e2.mp4",
+    "static/media/planet.png": "/NASA/static/media/planet.058293ea4871adfdc0ea.png",
+    "index.html": "/NASA/index.html",
+    "main.efde1b1b.css.map": "/NASA/static/css/main.efde1b1b.css.map",
+    "main.61b46d1b.js.map": "/NASA/static/js/main.61b46d1b.js.map",
+    "453.8ab44547.chunk.js.map": "/NASA/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efde1b1b.css",
+    "static/js/main.61b46d1b.js"
+  ]
+}
